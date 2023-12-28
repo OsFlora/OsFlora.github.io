@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>如意Ruyi&#39;s notebook</title>
+    <link>https://example.org/</link>
+    <description>Recent content on 如意Ruyi&#39;s notebook</description>
+    <image>
+      <title>如意Ruyi&#39;s notebook</title>
+      <url>https://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 27 Dec 2023 21:53:58 +0800</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Thu, 28 Dec 2023 13:55:48 +0800</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description>About me
+OsFlora
+zhejiang university</description>
+    </item>
+    <item>
+      <title>HelloHugo1</title>
+      <link>https://example.org/posts/hellohugo1/</link>
+      <pubDate>Wed, 27 Dec 2023 21:53:58 +0800</pubDate>
+      <guid>https://example.org/posts/hellohugo1/</guid>
+      <description># Hello, Hugo1
+你好，ruyi</description>
+    </item>
+    <item>
+      <title>HelloHugo2</title>
+      <link>https://example.org/posts/hellohugo2/</link>
+      <pubDate>Wed, 27 Dec 2023 21:53:58 +0800</pubDate>
+      <guid>https://example.org/posts/hellohugo2/</guid>
+      <description># Hello, Hugo2
+你好，ruyi</description>
+    </item>
+  </channel>
+</rss>
