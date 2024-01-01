@@ -11,7 +11,6 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 27 Dec 2023 21:53:58 +0800</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -23,20 +22,12 @@ OsFlora
 zhejiang university</description>
     </item>
     <item>
-      <title>HelloHugo1</title>
+      <title>Hello Ruping</title>
       <link>https://example.org/posts/hellohugo1/</link>
-      <pubDate>Wed, 27 Dec 2023 21:53:58 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.org/posts/hellohugo1/</guid>
-      <description># Hello, Hugo1
-你好，ruyi</description>
-    </item>
-    <item>
-      <title>HelloHugo2</title>
-      <link>https://example.org/posts/hellohugo2/</link>
-      <pubDate>Wed, 27 Dec 2023 21:53:58 +0800</pubDate>
-      <guid>https://example.org/posts/hellohugo2/</guid>
-      <description># Hello, Hugo2
-你好，ruyi</description>
+      <description>生日快乐！
+from ruyi</description>
     </item>
   </channel>
 </rss>
